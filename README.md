@@ -1,5 +1,3 @@
-
-
 The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
 
 Note that the BodgeIt Store is now available as a Docker image: https://hub.docker.com/r/psiinon/bodgeit/ 
