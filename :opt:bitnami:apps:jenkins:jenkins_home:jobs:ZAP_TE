@@ -1,0 +1,6 @@
+/opt/bitnami/apps/jenkins/jenkins_home/jobs/ZAP_TEST/htmlreports/HTML_Report
+/opt/bitnami/apps/jenkins/jenkins_home/workspace/ZAP_TEST
+
+git add -all
+git commit -m "test"
+git push -u origin master
